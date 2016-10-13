@@ -6,10 +6,10 @@ We follow the guidance and rules in the *[Chicago Manual of Style, 16th ed.] (ht
 
 ## Table of Contents
 
-- [Voice and Tone](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/voice-and-tone.md):
-- [Word Choice](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/word-choice.md)
-- [Terms](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/terms.md)
-- [Forms](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/forms.md)
-- [Content and Structure](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/content-and-structure.md)
-- [Style and Formatting](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/style-and-formatting.md)
-- [Site Navigation (Language and Conventions)](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/site-navigation.md)
+- [Voice and Tone](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/voice-and-tone.md):
+- [Word Choice](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/word-choice.md)
+- [Terms](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/terms.md)
+- [Forms](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/forms.md)
+- [Content and Structure](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/content-and-structure.md)
+- [Style and Formatting](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/style-and-formatting.md)
+- [Site Navigation (Language and Conventions)](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/site-navigation.md)
