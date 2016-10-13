@@ -1,4 +1,4 @@
-## Government Forms Referenced on vets.gov
+# Government Forms Referenced on vets.gov
 - DD214: Discharge or Separation Papers (Certificate of Release or Discharge from Active Duty )
 - DD Form 149: Application for Correction of Military Record (More commonly referred to as form DD149)
 - DD Form 293: Application for the Review of Discharge or Dismissal (More commonly referred to as form DD293)
