@@ -8,6 +8,7 @@
 - SGLV 8715: Application for the Servicemembers' Group Life Insurance (SGLI) Disability Extension
 - SGLV 8721: VGLI Beneficiary Designation/Change
 - VA Form 9: Substantive Appeal
+- VA Form 10-10EZ: Enrollment Application for Health Benefits
 - VA Form 10-0103: Veterans Application for Assistance in Acquiring Home Improvements and Structural Alterations
 - VA Form 10-1394: Application for Adaptive Equipment—Motor Vehicle: Application for VA VA Form 10-8678: Annual Clothing Allowance
 - VA Form 21-22a: Appointment of Veterans Service Organization
@@ -22,3 +23,4 @@
 - VA Form 26-4555: Application in Acquiring Specially Adaptive Housing or Special Home Adaptation Grant
 - VA Form 29-4125: Claim for One Sum Payment
 - VA Form 29-541: Certificate Showing Residence and Heirs of Deceased Veteran
+- VA Form 5655: Financial Status Report
