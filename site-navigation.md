@@ -4,6 +4,9 @@
 
 This IA element shows the Veteran the path to the current page or where the page lives in the IA (not all pages follow a path). Bread crumb text should he headline capped.
 
+## Buttons
+Text for buttons should be headline style.
+
 ## Linking Conventions
 Use both embedded links and links set apart from text as is appropriate for each page. When possible, place links outside running text, either at the end of a paragraph or on a separate line following the paragraph. However, it is ok to embed links when we want to encourage the user to browse to find a link to a deeper page.
 
