@@ -122,7 +122,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - prestabilization: No hyphen.
 - Prisoner of War: Capped to match the 10-10EZ.
 - Project 112/SHAD
-- PTSD: post-traumatic stress disorder. When it is spelled out (and PTSD is not mentioned and does not need to be defined), leave out the word "disorder." Say "post-traumatic stress" rather than "post-traumatic stress disorder."
+- PTSD: posttraumatic stress disorder (no hyphen)
 
 ### Q
 
