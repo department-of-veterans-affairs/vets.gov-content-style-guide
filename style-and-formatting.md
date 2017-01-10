@@ -1,4 +1,4 @@
-# Style and Formatting
+# Style, Formatting, and Grammar
 
 ## Style Elements
 
