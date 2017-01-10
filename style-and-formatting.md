@@ -17,6 +17,10 @@
   - PST: Pacific standard time
 - Yes, if: This section is roman, not bold, and is followed by a colon.
 
+## Grammar
+
+gender-neutral pronouns: Use "they" and "their" to avoid "he or she" and "his or her." *The New Fowler's Modern English Language*, third edition, as well as *Garner's Modern American Usage*, third edition, support this approach.
+
 ## Numbers
 
 - dates: Spell out the month rather than using numerals (except for 9/11). See the entry for "Days of the week and months."
