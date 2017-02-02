@@ -1,4 +1,4 @@
-# 2. Mission & Goals
+# Mission & Goals
 
 ### Mission
 Vets.gov enables Veterans to discover, apply for, track, and manage the benefits they have earned.
