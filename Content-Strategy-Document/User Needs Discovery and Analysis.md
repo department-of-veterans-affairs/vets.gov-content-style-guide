@@ -1,4 +1,4 @@
-# 3. User Needs: Discovery & Analysis
+# User Needs: Discovery & Analysis
 ### Discovery: Veterans’ Content Needs (Key Findings)
 -	Vets want a content experience that:
 -	Is supportive and personal
