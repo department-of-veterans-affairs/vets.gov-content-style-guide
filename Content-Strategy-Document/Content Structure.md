@@ -1,4 +1,4 @@
-# 6. Content Structure (How will content be organized, formatted, and displayed?)
+# Content Structure (How will content be organized, formatted, and displayed?)
 
 ### Considerations for each piece of content:
 -	Does the content need to be something you can search and sort by?
