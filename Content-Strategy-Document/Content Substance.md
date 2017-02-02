@@ -1,4 +1,4 @@
-# 4. Content Substance (What content do we need?)
+# Content Substance (What content do we need?)
 
 Each piece of content on vets.gov has a purpose. It should:
 -	**Inform:** provide the user with information on the specific benefit and eligibility criteria
