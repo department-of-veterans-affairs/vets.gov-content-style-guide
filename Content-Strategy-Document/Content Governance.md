@@ -1,4 +1,4 @@
-# 10. Content Governance (How will content be maintained?)
+# Content Governance (How will content be maintained?)
 
 ### Considerations:
 -	Will there be regularly scheduled content updates? How often?
