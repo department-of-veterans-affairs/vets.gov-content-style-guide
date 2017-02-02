@@ -1,4 +1,4 @@
-# 8. Content Standards (How will we measure success?)
+# Content Standards (How will we measure success?)
 
 ### Content Scorecard
 The vets.gov Content Scorecard is a set of research-informed criteria to develop and assess vets.gov content. It’s focused on criteria (“items”) that enhance clarity and aid understanding, particularly for audiences who may have limited literacy skills or struggle with complex information.
