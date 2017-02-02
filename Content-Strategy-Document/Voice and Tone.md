@@ -1,4 +1,4 @@
-# 5. Voice & Tone
+# Voice & Tone
 
 The user tasks will determine what we communicate. 
 The voice and tone guidelines will determine how we communicate. 
