@@ -1,4 +1,4 @@
-# 7. Content Workflow (How is content created and managed?)
+# Content Workflow (How is content created and managed?)
 
 1.	Identify task/task flow (in collaboration with VA)
 2.	Identify source content (in collaboration with VA)
