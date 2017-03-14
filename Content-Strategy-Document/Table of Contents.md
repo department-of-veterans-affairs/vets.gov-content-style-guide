@@ -1,6 +1,16 @@
-# Content Strategy Table of Contents
+# Content Strategy Overview
 
-- [Why Content Strategy?](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/Content-Strategy-Document/Why%20Content%20Strategy%3F.md)
+This content strategy will guide the creation, delivery, and governance of content on vets.gov. It’s a living, evolving plan that:
+
+- Describes vets.gov vision and goals 
+- Maps out how vets.gov will use content to meet user needs
+- Identifies the types of content needed
+- Defines how the content will be organized, formatted, displayed, and delivered
+- Identifies the processes used to create and maintain content
+- Describes future considerations for content governance
+
+# Table of Contents
+
 - [Mission & Goals](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/Content-Strategy-Document/Mission%20and%20Goals.md)
 - [User Needs: Discovery & Analysis](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/Content-Strategy-Document/User%20Needs%20Discovery%20and%20Analysis.md)
 - [Content Substance](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/Content-Strategy-Document/Content%20Substance.md)
