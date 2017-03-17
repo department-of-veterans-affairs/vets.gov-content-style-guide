@@ -174,7 +174,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Veterans’ Educational Assistance Program (VEAP): “Veterans” takes a possessive apostrophe.
 - Veterans’ Group Life Insurance (VGLI)
 - Veterans’ Mortgage Life Insurance (VMLI)
-- vets.gov: Lowercase the "v" in running text unless it starts the sentence.
+- Vets.gov: Always capitalize the "V" — it's a brand name
 - Vietnam War Era (or Vietnam Era)
 
 ### W
