@@ -51,6 +51,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
   - educational plan
   - educational program
 
+- Era: lowercase this word in combination with the names of wars (Vietnam era, or Vietnam War era)
 - Exception: Used to call special attention to something. It should be bolded and never in all caps.
 
 ### F
@@ -114,6 +115,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 ### P
 
 - percent: Use the symbol % rather than spelling it out, for scannability.
+- Persian Gulf War era (lowercase "era")
 - post-9/11: We use the slash rather than the hyphen for 9/11 (*not* 9-11). For example, Post-9/11 GI Bill.
 - postservice: No hyphen.
 - predischarge: No hyphen.
@@ -175,7 +177,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Veterans’ Group Life Insurance (VGLI)
 - Veterans’ Mortgage Life Insurance (VMLI)
 - Vets.gov: Always capitalize the "V" — it's a brand name
-- Vietnam War Era (or Vietnam Era)
+- Vietnam War era, or Vietnam era (lowercase "era")
 
 ### W
 
