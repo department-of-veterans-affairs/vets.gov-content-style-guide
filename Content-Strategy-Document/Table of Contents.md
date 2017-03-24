@@ -1,4 +1,4 @@
-# Content Strategy Overview
+# Vets.gov Content Strategy
 
 This content strategy will guide the creation, delivery, and governance of content on vets.gov. It’s a living, evolving plan that:
 
