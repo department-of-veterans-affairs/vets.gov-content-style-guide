@@ -6,17 +6,25 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 - Have a different spelling or a different use of capitalization or hyphenation than what's found in CMS and M-W
 - Surfaced during the concurrence process (e.g., say "VA claim exam" rather than "C&P exam"; say "decision notice" rather than "decision letter")
+- List a plain-language example or usage
 - Are VA-specific proper nouns (e.g., Veterans' Mortgage Life Insurance. We need to be accurate about whether a term is capitalized, plural, singular possessive, plural possessive, etc.)
 - Are specific to VA forms and applications (e.g., Prisoner of War appears on the 10-10EZ capitalized, but it is lowercased in CMS and M-W. For consistency, we want to match capitalization style in forms. We also want to be accurate when referring to the names of blocks that Veterans fill in on forms.)
 
 ### A
 
 - active duty: Hyphenate when it modifies a noun; do not cap (active-duty Servicemember)
-- accredited representative: Lowercase.
+- accredited representative: Lowercase. (A trained professional trusted to help with VA-related claims) OR "You can get help from a trained professional trusted to help with VA-related claims. [Find an accredited representative]."
+- Agent Orange: defined as a toxic chemical used to clear trees and plants during the war.
+- annual: Use "each year."
 - Armed Forces: Capitalize.
+- asbestos: defined as toxic fibers once used in many buildings and products.
+- attending physician: the doctor in charge of a Veteran's care. (another definition TK?)
 
 ### B
-- beneficiary: Avoid this term in favor of “family member” when appropriate.
+
+- became ill: use "got sick."
+- became worse: use "got worse."
+- beneficiary: Use this term to mean the person picked to get the money from a life insurance policy when the policyholder dies. In other uses, avoid this term in favor of “family member.” 
 - Benefits Delivery at Discharge (BDD) program: “Benefits” is plural.
 
 ### C
@@ -25,15 +33,31 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Certificate of Release or Discharge from Active Duty (DD214)
 - certifying official (VA certifying official)
 - character of service (more casually referred to as "type of service"): This is a "block" or box on the DD214 that states one of the following: honorable, general/under honorable conditions, under other than honorable conditions, uncharacterized, or bad conduct.
+- chronic: Use "long-lasting", or when needed, "illness that lasts for a long time." 
 - claim exam: This is the C&P exam. The correct way to refer to it is "VA claim exam."
 - click: Avoid using this word (especially the phrase "click here") to prompt users to click on a link; instead link the appropriate words. For example: “Find an [accredited representative](https://www.vets.gov/disability-benefits/apply-for-benefits/help/index.html) to help you.” or “Learn more about [evidence requirements](https://www.vets.gov/disability-benefits/claims-process/evidence/).”
+- compensation: use "payment" or "payments."
+- competent: defined as of legal age and sound mind.
+- conditions: on first mention use "illness" or "injury." All other mentions "condition" or "conditions" is OK. 
+- contamination: defined as water that was found to have toxic chemicals in it. (Exception: On the Camp Lejeune page, don't define this term.)
+- court-appointed guardian: defined as a person the court decides is in charge of caring for another person who can't take care of him or herself.
 
 ### D
 
+- death benefits: money from a Veteran’s life insurance policy when that Veteran dies.
 - deceased: Favor this word over "decedent," which is chiefly a legal term.
+- demolish: use "knock down," or when used as a noun in the context of a job of building demolition, "demolition (knocking down old buildings)."
+- dentistry: use "dental care."
 - Department of Veterans Affairs (no apostrophe)
 - Dependents’ Educational Assistance Program (also called Survivors’ and Dependents’ Educational Assistance Program): Both terms are regularly shortened to DEA.
+- dependents of Veterans: use "qualified dependents." 
+- deprivation: defined as a lack of things such as sleep that people need for their physical and mental well being.
 - decision notice: We should *not* refer to this as the "decision letter." The Veteran undergoes a VA claim exam (casually referred to as a C&P exam), and then after VA reviews the evidence, they sent the Veteran a "decision notice" that includes the disability rating.
+- disability or permanent disability: defined as a disability that doesn't go away.
+- disability rating: defined as a rating that measures how bad or severe a disability is. In certain instances, we may use: "a rating that measures how bad your disability is and helps us decide your level of benefits."
+- disease: use "illness," unless it is part of a proper name of a specific disease.
+- dividend: defined as cash payments made to policyholders when the company makes a profit; OR when life insurance companies make money, they sometimes make cash payments (called dividends) to people who have policies with them.
+
 
 ### E
 
