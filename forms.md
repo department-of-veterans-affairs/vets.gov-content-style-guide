@@ -1,4 +1,6 @@
 # Government Forms Referenced on vets.gov
+
+When referring to a form, cap the F. For example, "someone will help you fill out VA Form 82-3456." OR "Download Form 82-3456."
 - DD214: Discharge or Separation Papers (Certificate of Release or Discharge from Active Duty )
 - DD Form 149: Application for Correction of Military Record (More commonly referred to as form DD149)
 - DD Form 293: Application for the Review of Discharge or Dismissal (More commonly referred to as form DD293)
