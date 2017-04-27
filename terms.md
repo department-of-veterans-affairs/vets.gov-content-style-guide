@@ -18,7 +18,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - annual: Use "each year."
 - Armed Forces: Capitalize.
 - asbestos: defined as toxic fibers once used in many buildings and products.
-- attending physician: the doctor in charge of a Veteran's care. (another definition TK?)
+- attending physician: the doctor in charge of a Veteran's care.
 
 ### B
 
@@ -54,7 +54,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - dependents of Veterans: use "qualified dependents." 
 - deprivation: defined as a lack of things such as sleep that people need for their physical and mental well being.
 - decision notice: We should *not* refer to this as the "decision letter." The Veteran undergoes a VA claim exam (casually referred to as a C&P exam), and then after VA reviews the evidence, they sent the Veteran a "decision notice" that includes the disability rating.
-- disability or permanent disability: defined as a disability that doesn't go away.
+- disability or permanent disability: defined as a disability that doesn't go away. (Note, this definition goes on the Disability home page only. Remove from other pages.)
 - disability rating: defined as a rating that measures how bad or severe a disability is. In certain instances, we may use: "a rating that measures how bad your disability is and helps us decide your level of benefits."
 - disease: use "illness," unless it is part of a proper name of a specific disease.
 - dividend: defined as cash payments made to policyholders when the company makes a profit; OR when life insurance companies make money, they sometimes make cash payments (called dividends) to people who have policies with them.
