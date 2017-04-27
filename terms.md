@@ -86,7 +86,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### F
 
-- family member: depending on the context use "people in your family" or "someone in your family." Use this term instead of “beneficiary” whenever possible. 
+- family member: Use this term instead of “beneficiary” whenever possible. 
 - Family Servicemembers’ Group Life Insurance (FSGLI)
 - federal: Do not cap "federal" for generic usage such as "federal agency."
 - Fibromyalgia: defined as a sickness that causes tiredness, pain in different areas of your body, and sleep, memory, and mood problems
