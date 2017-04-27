@@ -40,6 +40,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - competent: defined as of legal age and sound mind.
 - conditions: on first mention use "illness" or "injury." All other mentions "condition" or "conditions" is OK. 
 - contamination: defined as water that was found to have toxic chemicals in it. (Exception: On the Camp Lejeune page, don't define this term.)
+- convalescence: use "rehab care."
 - court-appointed guardian: defined as a person the court decides is in charge of caring for another person who can't take care of him or herself.
 
 ### D
@@ -62,6 +63,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 ### E
 
 - email: No hyphen.
+- environmental hazards: defined as harmful toxins in the air, water, or land such as those that get released from burn pits.
 - education (serving as an attributive noun to modify another noun)
   - education benefits: not educational benefits
   - education and training opportunities
@@ -74,15 +76,20 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
   - educational institution
   - educational plan
   - educational program
-
-- Era: lowercase this word in combination with the names of wars (Vietnam era, or Vietnam War era)
-- Exception: Used to call special attention to something. It should be bolded and never in all caps.
+- equivalent: use "as in." For example, “other separation documents,” as in “DD214 or other separation documents”
+- era: lowercase this word in combination with the names of wars (Vietnam era, or Vietnam War era)
+- evidence: supporting documents. For example, "like a doctor's report or medical test results," as needed. 
+- exception: Used to call special attention to something. It should be bolded and never in all caps.
+- excluding: use "not counting" or "not including."
+- explosive ordinance: defined as high-explosive devices and chemical and nuclear weapons.
+- exposure: use "had contact with” or “come into contact with.”
 
 ### F
 
-- family member: Use this term instead of “beneficiary” whenever possible.
+- family member: depending on the context use "people in your family" or "someone in your family." Use this term instead of “beneficiary” whenever possible. 
 - Family Servicemembers’ Group Life Insurance (FSGLI)
 - federal: Do not cap "federal" for generic usage such as "federal agency."
+- Fibromyalgia: defined as a sickness that causes tiredness, pain in different areas of your body, and sleep, memory, and mood problems
 - final status: Use “in final status” rather than “in a final status” (no need for the article “a”).
 
 ### G
@@ -97,14 +104,20 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### H
 
+- hazardous: use "harmful" or "toxic."
+- hazardous exposure: defined as contact with harmful chemicals or other hazardous materials.
 - health care: Two words, never hyphenated as a compound adjective, e.g., “health care system.” Do not capitalize unless it is the proper name of a VA medical center. In addition, defer to the hospital’s official name, which may have health care as one word versus two words.
-- home loan: Do not use a hyphen when in the form of an adjective. ("home loan benefits")
-- How it works (This section is sentence capped and is *not* followed by a colon)
+- health problems: use "illnesses and injuries (also known as conditions)"
+- hospitalization: use "hospital care."
+- home loan: Do not use a hyphen when in the form of an adjective. ("home loan benefits").
+- How it works (This section is sentence capped and is *not* followed by a colon).
 
 ### I
 
-- Individual Unemployability status
+- illness: use "illness" to refer to diseases.
+- Individual Unemployability status: defined as being unable to work.
 - individually unemployable: Lowercase.
+- input: use "record."
 
 ### J
 
@@ -114,12 +127,16 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### L
 
+- lewisite: defined as a natural compound that contains the poisin arsenic.
 - life insurance: Do not hyphenate in the form of a compound adjective: “life insurance coverage.”
 - Loan Guaranty agent: Capped per SME.
 - Loan Technician: Capped.
+- Loss of range of motion: use "problems moving your body."
 
 ### M
 
+- manufacturing: use "making."
+- maximum: use "top limit."
 - may: See entry for "can."
 - Military Occupation Code (MOC)
 - Million Veteran Program (MVP)
@@ -138,16 +155,22 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### P
 
+- patient: use "person living with," as in "person living with diabetes" instead of "diabetes patient."
 - percent: Use the symbol % rather than spelling it out, for scannability.
 - Persian Gulf War era (lowercase "era")
+- physical or mental disorder: defined as a health problem that affects the body or mind.
 - post-9/11: We use the slash rather than the hyphen for 9/11 (*not* 9-11). For example, Post-9/11 GI Bill.
 - postservice: No hyphen.
 - predischarge: No hyphen.
 - preseparation: No hyphen.
 - preservice: No hyphen.
 - prestabilization: No hyphen.
+- presume: use "conclude," as in "we will conclude your condition is linked to service."
+- presumptive disability: "health problem (called presumptive disability) that we've concluded is likely caused by... "
 - Prisoner of War: Capped to match the 10-10EZ.
 - Project 112/SHAD
+- process (a claim): use "review."
+- prove...is related to: use "show...is likely caused by" 
 - PTSD: posttraumatic stress disorder (no hyphen)
 
 ### Q
@@ -156,14 +179,18 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 - Reserve
 - Reservist
+- respiratory disease: use "breathing problems" or "lung disease."
 - résumé: Use accent marks.
+- retroactively: defined as, it takes effect starting from a date in the past.
 
 ### S
 
 - Selected Reserve
 - service connected: Hyphenate when preceding a noun. For example, "a Veteran with a service-connected disability." Otherwise, do not hyphenate. For example, "The disability is considered service connected."
+- service-connected condition: defined as an illness or injury caused—or made worse by—your active-duty service. OR where possible, add the definition in another sentence. For example, A service-connected condition is an illness or injury caused—or made worse by—your active-duty service.
+- service-connected disability: In most cases, add the definition separately as either another sentence or a note below a bulleted list. For example, Having a service-connected disability means we've concluded that you're disabled because of an illness or injury caused—or made worse by—your active-duty service. 
 - service-connection: Hyphenate this term. For example, "You may be eligible for service-connection."
-- Service-Disabled Veterans Insurance (S-DVI)
+- Service-Disabled Veterans Insurance (S-DVI): Life insurance for Veterans who have become disabled as a result of serving in the military.
 - Servicemember: One word and cap the S.
 - Servicemembers’ Group Life Insurance (SGLI)
 - Servicemembers’ Group Life Insurance Disability Extension (SGLI-DE)
@@ -171,10 +198,13 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Social Security number: Use this capitalization per Merriam-Webster (do not cap "number").
 - Stand Down: Capitalize when referring to the homeless event.
 - substantially gainful employment
+- survivors: use "qualified survivors."
 - Survivors’ and Dependents’ Educational Assistance program (also called Dependents’ Educational Assistance program). Both terms can be shortened to DEA.
 
 ### T
 
+- terminal illness: a sickness that can't be cured and that will likely result in the person’s death within a short period of time.
+- trauma: an injury or deeply disturbing experience.
 - TSGLI: Servicemembers' Group Life Insurance Traumatic Injury Protection
 
 ### U
@@ -187,6 +217,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - VA health care facility
 - VA medical center: "Medical Center" should only be capped if a specific name is included in the title. Don't shorten to "VA center."
 - VA regional office: "Regional Office" should only be capped if a specific name is included in the title.
+- vesicant agents: use "vesicant (blistering) agents."
 - Vet Center: Cap the C.
 - Veteran: Always capitalize.
 - Veterans Benefits Administration (VBA)
