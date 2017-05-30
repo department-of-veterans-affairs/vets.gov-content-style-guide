@@ -22,7 +22,15 @@ Gender-neutral pronouns: Use "they" and "their" to avoid "he or she" and "his or
 ## Numbers
 
 - dates: Spell out the month rather than using numerals (except for 9/11). See the entry for "Days of the week and months."
-- numbers: Use numerals for all numbers. Do not spell out any numbers.
+- numbers: Use numerals for all numbers except "one" when it is used in the sense of "a" rather than a number that's counting something. Also use "one" when the expression "more than one" is used. Here are some examples:
+  - Choose from one of the VA-backed loan options.
+  - Can I take classes at more than one school at a time?
+  - Can I get more than one degree under the GI Bill?
+  - You'll have to pick which one you want to use.
+  - You can use only one program at a time.
+ 
+ Spell out ordinal numbers 1-10: first, second, third, etc. Then use numerals: 11th, 12th, 13th, etc.
+ 
 - percentages: Use numerals rather than spelling out the number. Use the percentage symbol rather than the word “percent” (a combined disability rating of 70%) with no space between the numeral and the percent symbol. **Note:** vets.gov style deviates from 18F style for [percentages](https://pages.18f.gov/content-guide/numbers-and-percentages/). We take this approach for scannability and because we have a fair amount of text discussing disability ratings in the Disability section. Both AP and Chicago Manual of Style recommend our approach for technical or scientific writing. Disability ratings fall into this category of writing.
 - phone numbers: Don't use parentheses for the area code. Don't use 1 in front of the number: 401-283-3542.
 - phone numbers with an extension: Use clear language like "press 1" rather than something more vague like "option 1" or "choose option 1." For example: Please call 877-222-VETS (8387), then press 2, from 8:00 a.m. to 5:00 p.m. (ET).
