@@ -27,7 +27,7 @@ assist or assistance   | help                        |
 designate              | choose or assign            |
 determine              | figure out or decide        |
 e.g.                   | like, including, for example|
-eligible               | able to, allowed to, can    |
+eligible               | able to, allowed to, can    | Reword to use "qualify" instead.
 employ                 | use                         |
 enroll                 | sign up                     |
 evaluate               | figure out, decide, look at |
