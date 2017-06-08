@@ -32,6 +32,8 @@ It may make sense to start a link phrase with these words if the rest of the phr
   
 - Don’t link ending punctuation. You don’t want the period to be underlined. If a string of words at the end of a sentence is linked, use punctuation (usually a period) as grammar would dictate, but don’t link it.
 
+- **Don't** code hyperlinks so they open in a new window: To keep the experience consistent across the entire Vets.gov website, we code all hyperlinks to behave in the same way.
+
 ### External Linking 
 
 Vets.gov uses an icon to alert Veterans, without being overly burdensome, that a link will take them to an external site. We don’t use a pop-up or a modal warning. This standard practice does not apply to external links in the vets.gov footer, where no icon accompanies the links to Twitter, Facebook, and other external pages.
