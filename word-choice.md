@@ -66,4 +66,6 @@ such as                                       | Whenever possible, use "like," "
 
 Define                         | Notes
 -------------------------------| ------------------
+bereavement                    | Use (grief) in parentheses 
 confidential                   | Define as private.
+
