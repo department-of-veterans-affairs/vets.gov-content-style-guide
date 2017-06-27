@@ -20,10 +20,9 @@ Balance the voice between friendly and formal — sound approachable and support
 ### Use person-first language
 
 Don't put the label before the person     | Use person-first language
-------------| ----------
-
-disabled and terminally ill policyholders  |   policyholders who are disabled and terminally ill
-homeless women Veterans  |  women Veterans who are homeless
+------------------------------------------| ----------
+disabled and terminally ill policyholders | policyholders who are disabled and terminally ill
+homeless women Veterans                   | women Veterans who are homeless
 
 ### Use plain language. For example:
 
