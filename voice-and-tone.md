@@ -17,6 +17,14 @@ not extraneous| forthcoming        | ready to serve     | conversational
 ## Voice
 Balance the voice between friendly and formal — sound approachable and supportive. When possible, use first person (we, us, our) and second person (you, your) pronouns. Avoid judgmental or condescending language.
 
+### Use person-first language
+
+Don't put the label before the person     | Use person-first language
+------------| ----------
+
+disabled and terminally ill policyholders  |   policyholders who are disabled and terminally ill
+homeless women Veterans  |  women Veterans who are homeless
+
 ### Use plain language. For example:
 
 - Use contractions ("don't" rather than "do not").
