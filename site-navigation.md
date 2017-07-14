@@ -16,7 +16,7 @@ The name of each page should be headline capped.
 Text for the top nav should be sentence capped.
 
 ## Linking Conventions
-Use both embedded links and links set apart from text as is appropriate for each page. When possible, place links outside running text, either at the end of a paragraph or on a separate line following the paragraph. However, it is ok to embed links when we want to encourage the user to browse to find a link to a deeper page.
+Opt for links set apart from text rather than embedded links. When possible, place links outside running text, either at the end of a paragraph or on a separate line following the paragraph. However, it is ok to embed links when we want to encourage the user to browse to find a link to a deeper page. PL stresses clarity in general and the use of calls to action specifically to enhance clarity. With embedded links, it can sometimes be fuzzy what one would be linking to. With links that are clear calls to action, it tells the user exactly what they're going to do when they click the link.
 
 - Use descriptive and actionable words and phrases that tell users where the link will take them. Don’t use the following non-informative, general link phrases: 
   - Click here
