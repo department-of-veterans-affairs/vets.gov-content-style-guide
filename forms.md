@@ -1,4 +1,4 @@
-# Government Forms Referenced on vets.gov
+# Government Forms (Applications) Referenced on vets.gov
 
 When referring to a form, cap the F. For example, "someone will help you fill out VA Form 82-3456." OR "Download Form 82-3456."
 - DD214: Discharge or Separation Papers (Certificate of Release or Discharge from Active Duty )
