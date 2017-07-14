@@ -22,7 +22,9 @@ Gender-neutral pronouns: Use "they" and "their" to avoid "he or she" and "his or
 ## Numbers
 
 - dates: Spell out the month rather than using numerals (except for 9/11). See the entry for "Days of the week and months."
-- numbers: Use numerals for all numbers except "one" when it is used in the sense of "a" rather than a number that's counting something. Also use "one" when the expression "more than one" is used. Here are some examples:
+- numbers: Use numerals for all numbers except "one" when it is used in the sense of "a" rather than a number that's counting something. Also use "one" when the expression "more than one" is used. We chose not to spell out 1-10 because it seems to be easier for readers to scan and spot numerals in text, and specifically easier for low-literacy readers to digest.
+
+Here are some examples:
   - Choose from one of the VA-backed loan options.
   - Can I take classes at more than one school at a time?
   - Can I get more than one degree under the GI Bill?
