@@ -2,7 +2,7 @@
 
 When referring to a form, cap the F. For example, "someone will help you fill out VA Form 82-3456." OR "Download Form 82-3456."
 
-Lead with the name of the form, followed by the number of the form in parentheses:
+Lead with the name of the form, followed by the number of the form in parentheses. Then, to link to the PDF, use the form number again for the sake of brevity:
 Fill out the Application for Burial Benefits (VA Form 21P-530). [Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf).
 
 - DD214: Discharge or Separation Papers (Certificate of Release or Discharge from Active Duty )
