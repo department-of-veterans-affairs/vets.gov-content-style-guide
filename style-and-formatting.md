@@ -2,7 +2,8 @@
 
 ## Style Elements
 
-- ampersands: Do not use ampersands in headers and running text. Spell out “and.”  (Exception: VR&E)
+- acronyms or initialism: Place the acronym or initialism in parentheses following the first use of the program name or term in running text on each page. Don't include initialisms in the title of the page (the main header).
+ampersands: Do not use ampersands in headers and running text. Spell out “and.”  (Exception: VR&E)
 - bold: Use bold sparingly to draw the reader's attention to must-read information that can be a full sentence or two. Be careful not to overuse bold text within a single page--or across our pages generally--or it will lose its power of emphasis. (Use italics to emphasize a word or two within a sentence. See the italics entry.)
 - days of the week and months: Spell out the days of the week and the names of months (Monday rather than Mon.; September rather than Sept.). If there are space constraints, abbreviate with Mon. and Sept. For help text, for instance, especially when it needs to fit into a box on the page, we often need to abbreviate as follows: Mon. ‒ Fri., 7:00 a.m. ‒ 7:00 p.m. (CT), and Sat., 9:00 a.m. ‒ 5:30 p.m. (CT). Use the en dash rather than the shorter-in-length hyphen to connect days of the week and months that are ranges. Make sure there's a space on either side of the en dash.
 - headers: Headline capitalization for the main title or name of the page. All subsequent subheads on that page should be sentence-style capitalization.
