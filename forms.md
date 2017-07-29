@@ -6,7 +6,7 @@ Lead with the name of the form (preceded by the article "a" or "an" rather than 
 
 Fill out an Application for Burial Benefits (VA Form 21P-530). [Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf).
 
-- DD214: Discharge or Separation Papers (Certificate of Release or Discharge from Active Duty )
+- DD214: Certificate of Release or Discharge from Active Duty (generally referred to as discharge or separation papers)
 - DD Form 149: Application for Correction of Military Record (More commonly referred to as form DD149)
 - DD Form 293: Application for the Review of Discharge or Dismissal (More commonly referred to as form DD293)
 - SGLV 8283: Claim for Death Benefits
