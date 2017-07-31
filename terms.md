@@ -40,6 +40,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - competent: defined as of legal age and sound mind.
 - conditions: on first mention use "illness" or "injury." All other mentions "condition" or "conditions" is OK. 
 - contamination: defined as water that was found to have toxic chemicals in it. (Exception: On the Camp Lejeune page, don't define this term.)
+- continuous: use "without a break" as in "without a break in service."
 - convalescence: use "rehab care."
 - court-appointed guardian: defined as a person the court decides is in charge of caring for another person who can't take care of him or herself.
 
@@ -76,25 +77,26 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
   - educational institution
   - educational plan
   - educational program
-- equivalent: use "as in." For example, “other separation documents,” as in “DD214 or other separation documents”
+- equivalent: Use "as in." For example, “other separation documents,” as in “DD214 or other separation documents”
 - era: lowercase this word in combination with the names of wars (Vietnam era, or Vietnam War era)
-- evidence: supporting documents. For example, "like a doctor's report or medical test results," as needed. 
+- evidence: Define as "supporting documents" and add, "like a doctor's report or medical test results," as needed. 
 - exception: Used to call special attention to something. It should be bolded and never in all caps.
-- excluding: use "not counting" or "not including."
-- explosive ordinance: defined as high-explosive devices and chemical and nuclear weapons.
-- exposure: use "had contact with” or “come into contact with.”
+- excluding: Use "not counting" or "not including."
+- expedited: Use "faster."
+- explosive ordinance: Defined as high-explosive devices and chemical and nuclear weapons.
+- exposure: Use "had contact with” or “come into contact with.”
 
 ### F
 
 - family member: Use this term instead of “beneficiary” whenever possible. 
 - Family Servicemembers’ Group Life Insurance (FSGLI)
 - federal: Do not cap "federal" for generic usage such as "federal agency."
-- Fibromyalgia: defined as a sickness that causes tiredness, pain in different areas of your body, and sleep, memory, and mood problems
+- Fibromyalgia: Defined as a sickness that causes tiredness, pain in different areas of your body, and sleep, memory, and mood problems
 - final status: Use “in final status” rather than “in a final status” (no need for the article “a”).
 
 ### G
 
-- GI: no periods (*not* G.I.).
+- GI: No periods (*not* G.I.).
 - GI Bill Comparison Tool: Capitalize "Comparison Tool."
 - gravesite: Style this as one word. (Merriam-Webster does not address whether this should be one or two words, but the Gravesite Locator and Arlington National Cemetery both style it as one word. In addition, the following related words do appear in Merriam-Webster as one: graveside and gravestone.)
 - guarantee: Can be used as either a noun or a verb. For our purposes, especially within the Home Loans section, when used in a legal context, we use “guarantee” as a verb and “guaranty” as a noun. (“VA guarantees a portion of the loan.”)
