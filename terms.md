@@ -133,6 +133,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - life insurance: Do not hyphenate in the form of a compound adjective: “life insurance coverage.”
 - Loan Guaranty agent: Capped per SME.
 - Loan Technician: Capped.
+- log in / login: Two words as a verb. For all other parts of speach, it should be one word.
 - Loss of range of motion: use "problems moving your body."
 
 ### M
@@ -157,6 +158,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### P
 
+- PO Box: no periods.
 - patient: use "person living with," as in "person living with diabetes" instead of "diabetes patient."
 - percent: Use the symbol % rather than spelling it out, for scannability.
 - Persian Gulf War era (lowercase "era")
