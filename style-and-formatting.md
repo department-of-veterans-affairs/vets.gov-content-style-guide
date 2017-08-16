@@ -35,12 +35,12 @@ Here are some examples:
  Spell out ordinal numbers 1-10: first, second, third, etc. Then use numerals: 11th, 12th, 13th, etc.
  
 - percentages: Use numerals rather than spelling out the number. Use the percentage symbol rather than the word “percent” (a combined disability rating of 70%) with no space between the numeral and the percent symbol. **Note:** vets.gov style deviates from 18F style for [percentages](https://pages.18f.gov/content-guide/numbers-and-percentages/). We take this approach for scannability and because we have a fair amount of text discussing disability ratings in the Disability section. Both AP and Chicago Manual of Style recommend our approach for technical or scientific writing. Disability ratings fall into this category of writing.
-- phone numbers: Don't use parentheses for the area code. Don't use 1 in front of the number: 401-283-3542.
-- phone numbers with an extension: Use clear language like "press 1" rather than something more vague like "option 1" or "choose option 1." For example: Please call 877-222-VETS (8387), then press 2, from 8:00 a.m. to 5:00 p.m. (ET).
+- phone numbers: Don't use parentheses for the area code. Include 1- in front of the number: 1-401-283-3542.
+- phone numbers with an extension: Use clear language like "press 1" rather than something more vague like "option 1" or "choose option 1." For example: Please call 1-877-222-VETS (8387), then press 2, from 8:00 a.m. to 5:00 p.m. (ET).
 - time/hours: Use numerals rather than spelling out the number. When indicating a time range, use the "from ... to" or "between ... and" construction (“6 to 8 weeks” or “8:00 a.m. to 5:00 p.m.”). Where there are space constraints, such as in a box or an application, you may use the en dash, which is a little longer (‒) than a hyphen or dash (-):
-Please call 800-123-4567 during business hours, 8:00 a.m. ‒ 5:00 p.m. (ET)
+Please call 1-800-123-4567 during business hours, 8:00 a.m. ‒ 5:00 p.m. (ET)
 or
-Please call 800-123-4567 between 8:00 a.m. and 5:00 p.m. (ET)
+Please call 1-800-123-4567 between 8:00 a.m. and 5:00 p.m. (ET)
 *Do not combine the two constructions* to use “from” with the dash like this: “from 8:00 ‒ 5:00.”
 - hours of operation associated with a phone number: Monday ‒ Friday, 7:00 a.m. ‒ 7:00 p.m. (CT), and Saturday, 9:00 a.m. ‒ 5:30 p.m. (CT). Spell out days of the week, if possible. If there's not enough room, use: Mon. ‒ Fri.
 
