@@ -1,8 +1,5 @@
 # Site Navigation (Language and Conventions)
 
-## Blue Cards
-These appear on the home page and section landing pages. The title of each card should be headline capped.
-
 ## Bread Crumbs
 This IA element shows the Veteran the path to the current page or where the page lives in the IA (not all pages follow a path). Bread crumb text should be headline capped.
 
