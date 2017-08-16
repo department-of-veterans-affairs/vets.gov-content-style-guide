@@ -1,6 +1,6 @@
 # Government Forms (Applications) Referenced on vets.gov
 
-When referring to a form, include "VA Form" in front of the number of the form and cap the F in "Form." For example, "someone will help you fill out VA Form 82-3456." OR "Download VA Form 82-3456."
+When referring to a form, include "VA Form" in front of the number of the form and cap the F in "Form." For example, "Download VA Form 82-3456."
 
 Lead with the name of the form (preceded by the article "a" or "an" rather than "the") followed by the number of the form in parentheses. Then, to link to the PDF, use the form number again for the sake of brevity:
 
