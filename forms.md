@@ -2,7 +2,7 @@
 
 When referring to a form, include "VA Form" in front of the number of the form and cap the F in "Form." For example, "Download VA Form 82-3456."
 
-Lead with the name of the form (preceded by the article "a" or "an" rather than "the") followed by the number of the form in parentheses. Then, to link to the PDF, use the form number again for the sake of brevity:
+When referred to in a sentence,lead with the name of the form (preceded by the article "a" or "an" rather than "the") followed by the number of the form in parentheses. Then, to link to the PDF, use the form number again for the sake of brevity:
 
 Fill out an Application for Burial Benefits (VA Form 21P-530). [Download VA Form 21P-530](https://www.vba.va.gov/pubs/forms/VBA-21P-530-ARE.pdf).
 
