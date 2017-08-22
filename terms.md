@@ -78,7 +78,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
   - educational plan
   - educational program
 - equivalent: Use "as in." For example, “other separation documents,” as in “DD214 or other separation documents”
-- era: Uppercase for Vietnam Era (this is a VA term). Don't use Vietnam War Era.
+- era: Uppercase for Vietnam Era (this is a VA term). If you need to talk about the Vietnam War, which has different dates associated with it than Vietnam Era, style it with "era" lc: Vietnam War era.
 - evidence: Define as "supporting documents" and add, "like a doctor's report or medical test results," as needed. 
 - exception: Used to call special attention to something. It should be bolded and never in all caps.
 - excluding: Use "not counting" or "not including."
