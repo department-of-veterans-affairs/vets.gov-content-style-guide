@@ -78,7 +78,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
   - educational plan
   - educational program
 - equivalent: Use "as in." For example, “other separation documents,” as in “DD214 or other separation documents”
-- era: lowercase this word in combination with the names of wars (Vietnam era, or Vietnam War era)
+- era: Uppercase for Vietnam Era (this is a VA term). Don't use Vietnam War Era.
 - evidence: Define as "supporting documents" and add, "like a doctor's report or medical test results," as needed. 
 - exception: Used to call special attention to something. It should be bolded and never in all caps.
 - excluding: Use "not counting" or "not including."
@@ -236,7 +236,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Veterans’ Group Life Insurance (VGLI)
 - Veterans’ Mortgage Life Insurance (VMLI)
 - Vets.gov: Always capitalize the "V" — it's a brand name
-- Vietnam War era, or Vietnam era (lowercase "era")
+- Vietnam Era (uppercase "era"), but Vietnam War era (lowercase "era"). Mostly we use the first term: Vietnam Era.
 
 ### W
 
