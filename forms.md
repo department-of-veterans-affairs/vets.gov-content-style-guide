@@ -16,6 +16,8 @@ Fill out an Application for Burial Benefits (VA Form 21P-530). [Download VA Form
 - SGLV 8721: VGLI Beneficiary Designation/Change
 - VA Form 9: Substantive Appeal
 - VA Form 10-0103: Veterans Application for Assistance in Acquiring Home Improvements and Structural Alterations
+- VA Form 10-10EZ: Application for Health Benefits
+- VA Form 10-10EZR: Health Benefits Update Form
 - VA Form 10-1394: Application for Adaptive Equipment—Motor Vehicle: Application for VA VA Form 10-8678: Annual Clothing Allowance
 - VA Form 21-22a: Appointment of Veterans Service Organization
 - VA Form 21-526EZ: Disability Compensation and Related Compensation Benefits
