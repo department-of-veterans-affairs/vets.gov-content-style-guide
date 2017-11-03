@@ -33,6 +33,7 @@ enroll                 | sign up                     |
 evaluate               | figure out, decide, look at |
 every (week/month/year)| each                        |
 (the) following        | these, this + descriptor    | Rather than "the following locations" say "these locations"
+immediately            | right away                  |
 incurred               | happened, got               | "An injury that happened because of your military service..."
 individual             | person                      |
 locate                 | find                        |
