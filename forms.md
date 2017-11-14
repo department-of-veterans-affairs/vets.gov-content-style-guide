@@ -19,8 +19,9 @@ Fill out an Application for Burial Benefits (VA Form 21P-530). [Download VA Form
 - VA Form 10-10EC: Application for Extended Care Services
 - VA Form 10-10EZ: Application for Health Benefits
 - VA Form 10-10EZR: Health Benefits Update Form
-- VA Form 10-1394: Application for Adaptive Equipment—Motor Vehicle: Application for VA VA Form 10-8678: Annual Clothing Allowance
-- VA Form 1100: Agreement to Pay Indebtednes
+- VA Form 10-1394: Application for Adaptive Equipment—Motor Vehicle
+- VA Form 10-8678: Application for Annual Clothing Allowance
+- VA Form 1100: Agreement to Pay Indebtedness
 - VA Form 21-22a: Appointment of Veterans Service Organization
 - VA Form 21-526EZ: Disability Compensation and Related Compensation Benefits
 - VA Form 21-4138: Statement in Support of Claim
