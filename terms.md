@@ -117,6 +117,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 ### I
 
 - illness: use "illness" to refer to diseases.
+- independent living services: no hyphen for the compound adjective.
 - Individual Unemployability status: defined as being unable to work.
 - individually unemployable: Lowercase.
 - input: use "record."
