@@ -146,6 +146,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Million Veteran Program (MVP)
 - Montgomery GI Bill Active Duty
 - Montgomery GI Bill Selected Reserve
+- My Health*e*Vet: italicize the "e"
 
 ### N
 
