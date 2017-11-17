@@ -194,7 +194,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Selected Reserve
 - service connected: Hyphenate when preceding a noun. For example, "a Veteran with a service-connected disability." Otherwise, do not hyphenate. For example, "The disability is considered service connected."
 - service-connected condition: defined as an illness or injury caused—or made worse by—your active-duty service. OR where possible, add the definition in another sentence. For example, A service-connected condition is an illness or injury caused—or made worse by—your active-duty service.
-- service-connected disability: In most cases, add the definition separately as either another sentence or a note below a bulleted list. For example, Having a service-connected disability means we've concluded that you're disabled because of an illness or injury caused—or made worse by—your active-duty service. 
+- service-connected disability: In most cases, add the definition separately as either another sentence or a note below a bulleted list. For example, Having a service-connected disability means we've concluded that you're disabled because of an illness or injury caused—or made worse—by your active-duty service. 
 - service-connection: Hyphenate this term. For example, "You may be eligible for service-connection."
 - Service-Disabled Veterans Insurance (S-DVI): Life insurance for Veterans who have become disabled as a result of serving in the military.
 - Servicemember: One word and cap the S.
