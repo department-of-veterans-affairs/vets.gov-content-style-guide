@@ -163,6 +163,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - PO Box: no periods.
 - patient: use "person living with," as in "person living with diabetes" instead of "diabetes patient."
 - percent: Use the symbol % rather than spelling it out, for scannability.
+- permanent disability: a disability that's not expected to improve.
 - Persian Gulf War era (lowercase "era")
 - physical or mental disorder: defined as a health problem that affects the body or mind.
 - post-9/11: We use the slash rather than the hyphen for 9/11 (*not* 9-11). For example, Post-9/11 GI Bill.
