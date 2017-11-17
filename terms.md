@@ -187,7 +187,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Reserve
 - Reservist
 - respiratory disease: use "breathing problems" or "lung disease."
-- résumé: Use accent marks.
+- resume: Don't use accent marks.
 - retroactively: defined as, it takes effect starting from a date in the past.
 
 ### S
