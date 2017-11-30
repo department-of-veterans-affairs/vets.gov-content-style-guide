@@ -168,7 +168,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - physical or mental disorder: defined as a health problem that affects the body or mind.
 - post-9/11: We use the slash rather than the hyphen for 9/11 (*not* 9-11). For example, Post-9/11 GI Bill.
 - postservice: No hyphen.
-- predischarge: No hyphen.
+- pre-discharge: Use a hyphen.
 - preseparation: No hyphen.
 - preservice: No hyphen.
 - prestabilization: No hyphen.
