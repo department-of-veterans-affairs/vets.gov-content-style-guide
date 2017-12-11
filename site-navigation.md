@@ -56,4 +56,4 @@ In the **File** menu, choose **Save**.
 Select **I agree**.
 Click **Continue**.
 
-In tools such as Résumé Builder and the Health Care Application, the boxes where Veterans enter information have descriptors above them identifying what information should be entered. For instance, "First name" and "Branch of service." Sentence cap these descriptors (so, not "First Name" and "Branch of Service").
+In tools such as Resume Builder and the Health Care Application, the boxes where Veterans enter information have descriptors above them identifying what information should be entered. For instance, "First name" and "Branch of service." Sentence cap these descriptors (so, not "First Name" and "Branch of Service").
