@@ -43,6 +43,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - continuous: use "without a break" as in "without a break in service."
 - convalescence: use "rehab care."
 - court-appointed guardian: defined as a person the court decides is in charge of caring for another person who can't take care of him or herself.
+- court-martial: lowercase "general court-martial," "special court-martial," and "summary court-martial."
 
 ### D
 
