@@ -60,6 +60,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - disability rating: defined as a rating that measures how bad or severe a disability is. In certain instances, we may use: "a rating that measures how bad your disability is and helps us decide your level of benefits."
 - disease: use "illness," unless it is part of a proper name of a specific disease.
 - dividend: defined as cash payments made to policyholders when the company makes a profit; OR when life insurance companies make money, they sometimes make cash payments (called dividends) to people who have policies with them.
+- Don't Ask, Don't Tell policy: use initial caps and no quotation marks. Don't cap "policy."
 
 
 ### E
