@@ -32,6 +32,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - can vs. may: Use "can" when meaning the ability or power to do something; use "may" when meaning the permission to do it.
 - Certificate of Release or Discharge from Active Duty (DD214)
 - certifying official (VA certifying official)
+- Character of Discharge review process
 - character of service (more casually referred to as "type of service"): This is a "block" or box on the DD214 that states one of the following: honorable, general/under honorable conditions, under other than honorable conditions, uncharacterized, or bad conduct.
 - chronic: Use "long-lasting", or when needed, "illness that lasts for a long time." 
 - claim exam: This is the C&P exam. The correct way to refer to it is "VA claim exam."
