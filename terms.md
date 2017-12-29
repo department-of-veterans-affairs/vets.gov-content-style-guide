@@ -166,6 +166,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - PO Box: no periods.
 - patient: use "person living with," as in "person living with diabetes" instead of "diabetes patient."
 - percent: Use the symbol % rather than spelling it out, for scannability.
+- period of honorable service (not honorable period of service)
 - permanent disability: a disability that's not expected to improve.
 - Persian Gulf War era (lowercase "era")
 - physical or mental disorder: defined as a health problem that affects the body or mind.
