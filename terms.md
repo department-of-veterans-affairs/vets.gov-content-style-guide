@@ -258,3 +258,5 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Yellow Ribbon Scholarship (Yellow Ribbon Program): Cap “Program.”
 
 ### Z
+
+- zip code (no caps)
