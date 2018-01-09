@@ -30,6 +30,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 ### C
 
 - can vs. may: Use "can" when meaning the ability or power to do something; use "may" when meaning the permission to do it.
+- caregiver (not caretaker)
 - Certificate of Release or Discharge from Active Duty (DD214)
 - certifying official (VA certifying official)
 - Character of Discharge review process
