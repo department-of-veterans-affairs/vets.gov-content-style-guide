@@ -189,7 +189,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### R
 
-- Reserve
+- Reserves
 - Reservist
 - respiratory disease: use "breathing problems" or "lung disease."
 - resume: Don't use accent marks.
