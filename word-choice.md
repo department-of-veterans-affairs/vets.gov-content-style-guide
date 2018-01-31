@@ -29,6 +29,7 @@ determine              | figure out or decide        |
 e.g.                   | like, including, for example|
 eligible               | able to, allowed to, can    | Reword to use "qualify" instead.
 employ                 | use                         |
+encounter              | run into                    | "If you run into an error.."
 enroll                 | sign up                     |
 evaluate               | figure out, decide, look at |
 every (week/month/year)| each                        |
