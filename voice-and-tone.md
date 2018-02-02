@@ -27,10 +27,10 @@ homeless women Veterans                   | women Veterans who are homeless
 ### Use plain language. 
 
 **Plain language uses:**
-•	Common, recognizable words that often have fewer syllables than their more complex synonyms (“help” rather than “assistance”)
-•	Contractions (“don’t” rather than “do not”), active rather than passive voice, and shorter sentences and paragraphs
-•	Bulleted lists and bolded subheads to organize or “chunk” content in a clear, scannable way
-•	A conversational style, with questions in the first person (i.e., "How can I get these benefits?") and answers in the second person (i.e., "You'll need to apply for benefits").
+- Common, recognizable words that often have fewer syllables than their more complex synonyms (“help” rather than “assistance”)
+- Contractions (“don’t” rather than “do not”), active rather than passive voice, and shorter sentences and paragraphs
+- Bulleted lists and bolded subheads to organize or “chunk” content in a clear, scannable way
+- A conversational style, with questions in the first person (i.e., "How can I get these benefits?") and answers in the second person (i.e., "You'll need to apply for benefits").
 
 
 Passive     | Active
