@@ -24,10 +24,14 @@ Don't put the label before the person     | Use person-first language
 disabled and terminally ill policyholders | policyholders who are disabled and terminally ill
 homeless women Veterans                   | women Veterans who are homeless
 
-### Use plain language. For example:
+### Use plain language. 
 
-- Use contractions ("don't" rather than "do not").
-- Avoid passive voice.
+**Plain language uses:**
+•	Common, recognizable words that often have fewer syllables than their more complex synonyms (“help” rather than “assistance”)
+•	Contractions (“don’t” rather than “do not”), active rather than passive voice, and shorter sentences and paragraphs
+•	Bulleted lists and bolded subheads to organize or “chunk” content in a clear, scannable way
+•	A conversational style, with questions in the first person (i.e., "How can I get these benefits?") and answers in the second person (i.e., "You'll need to apply for benefits").
+
 
 Passive     | Active
 ------------| ----------
