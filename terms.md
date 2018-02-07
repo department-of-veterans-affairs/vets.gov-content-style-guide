@@ -189,6 +189,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### R
 
+- regional benefit office
 - Reserves
 - Reservist
 - respiratory disease: use "breathing problems" or "lung disease."
@@ -232,6 +233,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - vesicant agents: use "vesicant (blistering) agents."
 - Vet Center: Cap the C.
 - Veteran: Always capitalize.
+- Veteran Health Identification Card (VHIC) 
 - Veterans Benefits Administration (VBA)
 - Veterans cemetery: "Veterans" does not take an apostrophe and "cemetery" is capitalized only when part of the full name of a cemetery. (e.g., "Family members may be eligible if they are buried in a Veterans cemetery.")
 - Veterans Crisis Line: "Veterans" does not take an apostrophe (1-800-273-8255)
