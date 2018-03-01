@@ -27,8 +27,10 @@ homeless women Veterans                   | women Veterans who are homeless
 ### Use plain language. 
 
 **Plain language uses:**
-- Common, recognizable words that often have fewer syllables than their more complex synonyms (“help” rather than “assistance”)
-- Contractions (“don’t” rather than “do not”), active rather than passive voice, and shorter sentences and paragraphs
+- Common, recognizable words that often have fewer syllables than their more complex synonyms (“help” rather than “assistance” and "happen" rather than "occur")
+- Contractions (“don’t” rather than “do not”)
+- Active rather than passive voice
+- Shorter sentences and paragraphs
 - Bulleted lists and bolded subheads to organize or “chunk” content in a clear, scannable way
 - A conversational style, with questions in the first person (i.e., "How can I get these benefits?") and answers in the second person (i.e., "You'll need to apply for benefits").
 
@@ -38,8 +40,8 @@ Passive     | Active
 Most homeless services are run locally. | Local organizations run most homeless services.
 All benefits decisions can be appealed. | You can appeal any decision VA makes about your benefits.
 
-- Choose common words, like “help” instead of “assist” and “happen” instead of “occur” (see the table below of words to avoid for more details).
-- Keep sentences and paragraphs short.
+
+Keep sentences and paragraphs short.
   - Aim for sentences that are 15 words or fewer, but know that longer sentences are sometimes necessary.
   - Aim for sentences that have only 1 main message.
   - Use simple sentence construction (brevity wins!), and consider what information really needs to be included, for example:
