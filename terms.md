@@ -26,6 +26,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - became worse: use "got worse."
 - beneficiary: Use this term to mean the person picked to get the money from a life insurance policy when the policyholder dies. In other uses, avoid this term in favor of “family member.” 
 - Benefits Delivery at Discharge (BDD) program: “Benefits” is plural.
+- blind or low-vision (not "blind or sight-impaired")
 
 ### C
 
@@ -97,6 +98,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - federal: Do not cap "federal" for generic usage such as "federal agency."
 - Fibromyalgia: Defined as a sickness that causes tiredness, pain in different areas of your body, and sleep, memory, and mood problems
 - final status: Use “in final status” rather than “in a final status” (no need for the article “a”).
+- financial hardship (don't say this!): Instead say, "Having trouble paying for basic needs, like food and housing"
 
 ### G
 
@@ -116,6 +118,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - health problems: use "illnesses and injuries (also known as conditions)"
 - hospitalization: use "hospital care."
 - home loan: Do not use a hyphen when in the form of an adjective. ("home loan benefits").
+- Homeless or at risk of becoming homeless.
 - How it works (This section is sentence capped and is *not* followed by a colon).
 
 ### I
@@ -210,6 +213,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Servicemembers’ Group Life Insurance Traumatic Injury Protection (TSGLI)
 - Social Security number: Use this capitalization per Merriam-Webster (do not cap "number").
 - Stand Down: Capitalize when referring to the homeless event.
+- Suicide: Are you thinking of hurting yourself or others? (not "Are you having thoughts of suicide?)
 - substantially gainful employment
 - survivors: use "qualified survivors."
 - Survivors’ and Dependents’ Educational Assistance program (also called Dependents’ Educational Assistance program). Both terms can be shortened to DEA.
