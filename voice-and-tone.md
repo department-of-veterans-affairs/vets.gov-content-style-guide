@@ -10,7 +10,7 @@ genuine       | undaunted          | informed           | honest
 inclusive     | driven by a purpose| trustworthy        | pragmatic 
 conversational| ready to serve     | forthcoming        | not extraneous
 caring        | tireless           |                    | 
-**Not:** Abrupt, arrogant, bossy, cold, critical, condescending.| **Not:** Overly complex, in the weeds, too much information, technical. | **Not:** Obligated, demanding, relentless. | **Not:** Superficial, gimmicky, overly casual.
+**Not:** Superficial, gimmicky, overly casual.| **Not:** Obligated, demanding, relentless. | **Not:** Overly complex, in the weeds, too much information, technical. | **Not:** Abrupt, arrogant, bossy, cold, critical, condescending.
 
 **Tone** is the mood of the writing. The tone may vary based on the material’s content, the context, and the reader’s likely emotional state. For example, content on starting a vocational training program needs to have a more upbeat, encouraging tone, while content on burials needs a more gentle, compassionate tone.
 
