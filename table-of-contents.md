@@ -7,7 +7,7 @@ We follow the guidance and rules in the *[Chicago Manual of Style, 16th ed.] (ht
 ## Table of Contents
 
 - [Voice and Tone](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/voice-and-tone.md)
-- [Word Choice](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/word-choice.md)
+- [Plain Language Word Choice](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/word-choice.md)
 - [Terms](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/terms.md)
 - [Government Forms (Applications)](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/forms.md)
 - [Content and Structure](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/content-and-structure.md)
