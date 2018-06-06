@@ -1,4 +1,4 @@
-# Word Choice
+# Plain Language Word Choice
 Always use common words that Veterans will understand. If a term may be unfamiliar but you need to use it, be sure to give a plain-language definition.
 
 **Note:** Veterans aren’t the only ones visiting vets.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. Consider defining military jargon terms that may be familiar to Veterans, but not to their dependents.
