@@ -1,4 +1,4 @@
-# Terms
+# Terms (in-house style for certain words and phrases)
 
 ## Introduction:
 
