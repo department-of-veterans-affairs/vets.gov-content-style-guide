@@ -2,15 +2,15 @@
 
 **Voice** is the style, or personality, of a communication. The vets.gov voice should be consistent across all our communications. The vets.gov voice is direct, transparent, dedicated, and human. It’s that of a trusted advocate — ready with information, advice, and updates.
 
-Human         | Transparent        | Dedicated          | Direct 
---------------| -------------------| -------------------| ---------
-accessible    | consistent         | clear              | confident
-friendly      | supportive         | open               | decisive 
-genuine       | undaunted          | informed           | honest   
-inclusive     | driven by a purpose| trustworthy        | pragmatic 
-conversational| ready to serve     | forthcoming        | not extraneous
-caring        | tireless           |                    | 
-**Not:** Superficial, gimmicky, overly casual.| **Not:** Obligated, demanding, relentless. | **Not:** Overly complex, in the weeds, too much information, technical. | **Not:** Abrupt, arrogant, bossy, cold, critical, condescending.
+Human         | Transparent        | Dedicated    | Direct        
+--------------| -------------------| -------------| --------------
+accessible    | consistent         | clear        | confident     
+friendly      | supportive         | open         | decisive      
+genuine       | undaunted          | informed     | honest        
+inclusive     | driven by a purpose| trustworthy  | pragmatic     
+conversational| ready to serve     | forthcoming  | not extraneous
+caring        | tireless           |              |               
+<br> **Not:** Superficial, gimmicky, overly casual.| <br> **Not:** Obligated, demanding, relentless. | **Not:** Overly complex, in the weeds, too much information, technical. | **Not:** Abrupt, arrogant, bossy, cold, critical, condescending.
 
 **Tone** is the mood of the writing. The tone may vary based on the material’s content, the context, and the reader’s likely emotional state. For example, content on starting a vocational training program needs to have a more upbeat, encouraging tone, while content on burials needs a more gentle, compassionate tone.
 
