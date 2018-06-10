@@ -221,6 +221,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 ### T
 
 - terminal illness: a sickness that can't be cured and that will likely result in the person’s death within a short period of time.
+- Track Your Claim (use this phrasing for the blue button). We should reach for consistency across the site--top nav "Manage" dropdown, blue button, text links, etc.
 - trauma: an injury or deeply disturbing experience.
 - TSGLI: Servicemembers' Group Life Insurance Traumatic Injury Protection
 
