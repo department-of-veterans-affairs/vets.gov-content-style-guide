@@ -55,18 +55,13 @@ Please call 1-800-123-4567 between 8:00 a.m. and 5:00 p.m. (ET)
   - If your list has more than 7 items, use subheads to break it up.
   - Keep list items short (1 or 2 sentences in length)
   - Keep bullets in the same list parallel in construction (for example, each bullet starts with a verb) and consistent in style, grammar, and use of punctuation.
+  
+  
+Before            | After        |
+------------------|--------------|
+**How it works**  | **Do I need to get tested?**
+Several military occupational specialties have a risk of exposure to asbestos, including mining, milling, shipyard work, insulation work, demolition of old buildings, carpentry, and construction. VA also recognizes a risk of exposure in the manufacturing and installation of flooring, roofing, cement sheet, and pipe products. If you served in one of these specialties, you should be tested for related health risks. | If you had a job during your service where you might have had contact with asbestos, you need to get tested for health problems. <br> **Get tested if you worked in:** <ul><li>Mining</li><li>Milling</li><li>Shipyards</li><li>Construction and carpentry</li><li>Knocking down old buildings (demolition)</ul>**Get tested if you made or worked with products like:** <ul><li>Insulation</li><li>Flooring</li><li>Roofing</li><li>Cement sheet</li><li>Pipes</li></ul>
 
-   | Before   |
----| ---------| -----------
-   | **How it works** |
-   | Several military occupational specialties have a risk of exposure to asbestos, including mining, milling, shipyard work, insulation work, demolition of old buildings, carpentry, and construction. VA also recognizes a risk of exposure in the manufacturing and installation of flooring, roofing, cement sheet, and pipe products. If you served in one of these specialties, you should be tested for related health risks. |
-
-   | After   |
----| --------| ------------
-   | **Do I need to get tested?** |
-   | If you had a job during your service where you might have had contact with asbestos, you need to get tested for health problems.
-   | **Get tested if you worked in:** <ul><li>Mining</li><li>Milling</li><li>Shipyards</li><li>Construction and carpentry</li><li>Knocking down old buildings (demolition)</li></ul>|
-   | **Get tested if you made or worked with products like:** <ul><li>Insulation</li><li>Flooring</li><li>Roofing</li><li>Cement sheet</li><li>Pipes</li></ul>|
 
 ### In the **After** example:
 
