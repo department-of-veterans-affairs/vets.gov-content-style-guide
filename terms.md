@@ -16,6 +16,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - accredited representative: Lowercase. (A trained professional trusted to help with VA-related claims) OR "You can get help from a trained professional trusted to help with VA-related claims. [Find an accredited representative]."
 - Agent Orange: defined as a toxic chemical used to clear trees and plants during the war.
 - annual: Use "each year."
+- apply (use "file a claim for disability benefits" rather than "apply for benefits")
 - Armed Forces: Capitalize.
 - asbestos: defined as toxic fibers once used in many buildings and products.
 - attending physician: the doctor in charge of a Veteran's care.
@@ -97,6 +98,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - Family Servicemembers’ Group Life Insurance (FSGLI)
 - federal: Do not cap "federal" for generic usage such as "federal agency."
 - Fibromyalgia: Defined as a sickness that causes tiredness, pain in different areas of your body, and sleep, memory, and mood problems
+- file a claim for disability compensation (use "file a claim" rather than "apply for benefits")
 - final status: Use “in final status” rather than “in a final status” (no need for the article “a”).
 - financial hardship (don't say this!): Instead say, "Having trouble paying for basic needs, like food and housing"
 
