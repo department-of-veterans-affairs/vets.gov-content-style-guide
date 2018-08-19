@@ -16,7 +16,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - accredited representative: Lowercase. (A trained professional trusted to help with VA-related claims) OR "You can get help from a trained professional trusted to help with VA-related claims. [Find an accredited representative]."
 - Agent Orange: defined as a toxic chemical used to clear trees and plants during the war.
 - annual: Use "each year."
-- apply (use "file a claim for disability benefits" rather than "apply for benefits")
+- apply (use "file a claim for disability compensation" rather than "apply for benefits")
 - Armed Forces: Capitalize.
 - asbestos: defined as toxic fibers once used in many buildings and products.
 - attending physician: the doctor in charge of a Veteran's care.
