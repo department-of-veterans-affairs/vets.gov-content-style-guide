@@ -14,6 +14,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 - active duty: Hyphenate when it modifies a noun; do not cap (active-duty Servicemember)
 - accredited representative: Lowercase. (A trained professional trusted to help with VA-related claims) OR "You can get help from a trained professional trusted to help with VA-related claims. [Find an accredited representative]."
+- Advanced: Initial cap when used in the context of account level (for example: My HealtheVet Advanced)
 - Agent Orange: defined as a toxic chemical used to clear trees and plants during the war.
 - annual: Use "each year."
 - apply (use "file a claim for disability compensation" rather than "apply for benefits")
@@ -23,6 +24,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 
 ### B
 
+- Basic: Initial cap when used in the context of account level (for example: DS Logon Basic)
 - became ill: use "got sick."
 - became worse: use "got worse."
 - beneficiary: Use this term to mean the person picked to get the money from a life insurance policy when the policyholder dies. In other uses, avoid this term in favor of “family member.” 
@@ -178,6 +180,7 @@ These words or phrases are not captured by, or run counter to, entries in CMS or
 - physical or mental disorder: defined as a health problem that affects the body or mind.
 - post-9/11: We use the slash rather than the hyphen for 9/11 (*not* 9-11). For example, Post-9/11 GI Bill.
 - postservice: No hyphen.
+- Premium: Initial cap when used in the context of account level (for example: DS Logon Premium)
 - pre-discharge: Use a hyphen.
 - preseparation: No hyphen.
 - preservice: No hyphen.
