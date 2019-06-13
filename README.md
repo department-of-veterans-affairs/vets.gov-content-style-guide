@@ -1,4 +1,6 @@
-# The [VA.gov Design System and Content Style Guide](https://design.va.gov/content-style-guide/) has replaced the Vets.gov Content Style Guide.
+# The [VA.gov Design System and Content Style Guide](https://design.va.gov/content-style-guide/) has replaced the Vets.gov Content Style Guide. 
+
+
 
 
 # Vets.gov Content Style Guide
